@@ -1,6 +1,6 @@
 //Консольное приложение на прототипах
 
-Функция для создания устройства
+// Функция для создания устройства
 function Device(name, weight, color, power) {
     this.name = name;
     this.weight = weight;
